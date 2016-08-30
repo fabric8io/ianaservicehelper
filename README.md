@@ -1,5 +1,6 @@
 # IANA Service Helper[![Join the chat at https://gitter.im/fabric8io/users](https://badges.gitter.im/fabric8io/users.svg)](https://gitter.im/fabric8io/users?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+[![license](https://img.shields.io/github/license/fabric8io/ianaservicehelper.svg?maxAge=2592000)](https://github.io/fabric8io/ianaservicehelper/blob/master/LICENSE.txt)
 [![Maven Central](https://img.shields.io/maven-central/v/io.fabric8/ianaservicehelper.svg?maxAge=2592000)](http://search.maven.org/#search%7Cga%7C1%7Cg%3Aio.fabric8%20a%3Aianaservicehelper)
 [![Javadocs](http://www.javadoc.io/badge/io.fabric8/ianaservicehelper.svg?color=blue)](http://www.javadoc.io/doc/io.fabric8/ianaservicehelper)
 [![CircleCI](https://img.shields.io/circleci/project/fabric8io/ianaservicehelper.svg?maxAge=2592000)](https://circleci.com/gh/fabric8io/ianaservicehelper)
