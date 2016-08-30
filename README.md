@@ -28,11 +28,11 @@ PortAndProtocol port = Helper.servicePort("http");
 Lookup service names by port and protocol:
 
 ```
-Set<String> services = Helper.serviceNames("80", "tcp");
+Set<String> services = Helper.serviceNames(80, "tcp");
 ```
 
 Lookup service names by port (protocol defaults to `"tcp"`):
 
 ```
-Set<String> services = Helper.serviceNames("80");
+Set<String> services = Helper.serviceNames(80);
 ```
