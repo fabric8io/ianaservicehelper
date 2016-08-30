@@ -1,4 +1,9 @@
-# IANA Service Helper
+# IANA Service Helper[![Join the chat at https://gitter.im/fabric8io/users](https://badges.gitter.im/fabric8io/users.svg)](https://gitter.im/fabric8io/users?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+[![Maven Central](https://img.shields.io/maven-central/v/io.fabric8/ianaservicehelper.svg?maxAge=2592000)](http://search.maven.org/#search%7Cga%7C1%7Cg%3Aio.fabric8%20a%3Aianaservicehelper)
+[![Javadocs](http://www.javadoc.io/badge/io.fabric8/ianaservicehelper.svg?color=blue)](http://www.javadoc.io/doc/io.fabric8/ianaservicehelper)
+[![CircleCI](https://img.shields.io/circleci/project/fabric8io/ianaservicehelper.svg?maxAge=2592000)](https://circleci.com/gh/fabric8io/ianaservicehelper)
+[![Dependency Status](https://dependencyci.com/github/fabric8io/ianaservicehelper/badge)](https://dependencyci.com/github/fabric8io/ianaservicehelper)
 
 This utility provides a means to look up IANA registered services either by port
 or service name. The IANA registered services are embedded in a Map inside the
